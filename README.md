@@ -8,7 +8,7 @@ An interactive AI-powered Superman-themed chatbot built with React, Material-UI,
 
 ## 📋 Description
 
-This project is a **Centennial College** initiative designed to create an interactive AI-powered chatbot themed around the iconic DC superhero, Superman. Developed using cutting-edge web technologies and OpenAI's API, this chatbot offers engaging, context-aware conversations, providing users with a fun and immersive experience in the world of Superman.
+This project is designed to create an interactive AI-powered chatbot themed around the iconic DC superhero, Superman. Developed using cutting-edge web technologies and OpenAI's API, this chatbot offers engaging, context-aware conversations, providing users with a fun and immersive experience in the world of Superman.
 
 The application features a modern, responsive frontend built with React and Material-UI, and a robust backend powered by Node.js and Express that integrates with OpenAI's Assistant API to deliver intelligent, context-aware responses.
 
@@ -246,7 +246,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👥 Credits
 
-- **Institution**: Centennial College
+- **Developer**: Felipe Rosa
 - **Theme**: Warner Bros. Superman
 - **Technologies**: React, Material-UI, Node.js, Express, OpenAI API
 
